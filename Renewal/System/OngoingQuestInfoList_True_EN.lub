@@ -41313,9 +41313,9 @@ QuestInfoList = {
 	[12470] = {
 		Title = "Andrea's Revenge I",
 		Description = {
-			"Andrea has been fatally wounded by a scythe wielded by a small creature that only comes to her knees. He wants to give the little creature the same death rest. ^Ff0000 \" The cute look of the guy Don't be fooled by. He's more than a devil. \"^000000 I think we should check if he's really cute."
+			"Andrea's death was caused by a scythe from a small creature that was only as tall as his knees. Return the favor and put the creature that led to his death to rest. ^Ff0000 \" Don't be deceived by the creature's cute look. It's more than just a devil. \"^000000 I guess I should check if it's really that cute."
 		},
-		Summary = "Defeat Chaos Baphomet Junior",
+		Summary = "Eliminate Chaotic Baphomet Jr.",
 		RewardEXP = "1750000",
 		RewardJEXP = "1137500",
 		RewardItemList = {
@@ -41325,7 +41325,7 @@ QuestInfoList = {
 	[12471] = {
 		Title = "Andrea's Revenge II",
 		Description = {
-			"Andrea tried to heal with her own spiritual power after suffering the fatal wound of the body, but had to give up her revival by being overwhelmed by the soul of this chaotic being. It is his desire to purify these evil beings. ^Ff0000 \" Perhaps It must be the soul of an adventurer who died longer than me. What else or how? "
+			"After Andrea suffered a fatal injury, he attempted to heal himself. However, he halted his resurrection in favor of dedicating his soul to a chaotic existence to purify evil beings. ^Ff0000 \" Probably the soul of an adventurer who died a long time ago. Or something like that? \"^000000 It is not known whether Andrea was such a militant priest in his lifetime."
 		},
 		Summary = "Crushing the Chaos Ghosting",
 		RewardEXP = "1750000",
@@ -41337,9 +41337,9 @@ QuestInfoList = {
 	[12472] = {
 		Title = "Anes' Revenge I",
 		Description = {
-			"This fast and evil insect has done a critical blow to Anes, who is about to die. She believes that all winged insects in the world must be eradicated. ^Ff0099 \" Just don't be vigilant that they look like flies. The prey of the guys also includes people who are 'alive'\". ^000000There seems to be a very bad memory between her and this insect."
+			"This fast and wicked insect critically hit Anes when she was injured. She now believes that all insects with wings in this world must be eradicated. ^Ff0099 \" Do not be fooled because it just looks like a fly. Their food includes 'living' people...\". ^000000Maybe she has a bad experience with this insect."
 		},
-		Summary = "kill Chaos Hunterfly",
+		Summary = "	Eliminate Chaotic Hunter Flies",
 		RewardEXP = "1750000",
 		RewardJEXP = "1137500",
 		RewardItemList = {
@@ -41349,9 +41349,9 @@ QuestInfoList = {
 	[12473] = {
 		Title = "Anes' Revenge II",
 		Description = {
-			"Somehow lost, she was attacked by this cruel predator who had run out of the bush and was fatally wounded. Unfortunately, it was the moment when she bite the sandwich she made from dawn for exploration. ^Ff0099 \" If you find a damn thing, take all your legs off and throw it in a pile of mud. \"^000000 It would be a big deal if anyone interrupted the mealtime."
+			"Anes was attacked by this cruel predator who sprang out of a bush and inflicted a fatal injury. Sadly, it was while she was about to eat breakfast. ^Ff0099 \" When you find the damn mantis, cut off all its limbs and throw them into the dirt. \"^000000 Interrupting meal time is a big deal."
 		},
-		Summary = "kill killer mantis in chaos",
+		Summary = "Kill Chaotic Killer Mantis",
 		RewardEXP = "1750000",
 		RewardJEXP = "1137500",
 		RewardItemList = {
@@ -41359,11 +41359,11 @@ QuestInfoList = {
 		}
 	},
 	[12474] = {
-		Title = "Silano's Revenge I",
+		Title = "Silvano's Revenge I",
 		Description = {
-			"Silbano clearly remembers who the opponent attacked and drove to death. The enemy in his memory was similar to the monster that attacked Anes, but had other characteristics. ^Ff0077 \" Sister Annes wanted what Did you? Alas, you also wanted to eradicate them all. Then I would like the same, \"^000000"
+			"Silvano clearly remembers who was attacking him. The character in his memory somewhat resembles the monster that attacked Arnes, but it's obviously different. ^Ff0077 \" What did Sister Anes want? Oh, all of them wanted to eradicate it. So I would like to ask you to do the same thing. \"^000000"
 		},
-		Summary = "kill mantis in chaos",
+		Summary = "Eliminate Chaotic Mantis",
 		RewardEXP = "1750000",
 		RewardJEXP = "1137500",
 		RewardItemList = {
@@ -41371,11 +41371,11 @@ QuestInfoList = {
 		}
 	},
 	[12475] = {
-		Title = "Silano's Revenge II",
+		Title = "Silvano's Revenge II",
 		Description = {
-			"Since Sylvano, who was in a poor state, tried to use a potion because he didn't even have time to chant a recovery spell, all the potions in his inventory were swallowed up by this lingering monster. ^Ff0077 \" Will it work? It won't be there yet. I just don't want an adventurer to take the same damage. \"^000000It's up to the next adventurer to listen to his little hope."
+			"Silvano, who was near-deaths, tried to use potions because he did not have time to cast a healing spell, but all the potions in his inventory were swallowed by stray monsters. ^Ff0077 \" What good are possessions now? I do not think it will remain. I just hope that no adventurer befalls the same fate. \"^000000It is up to the next adventurer to listen to his request."
 		},
-		Summary = "Corporation of Chaos",
+		Summary = "Eliminate Chaotic Poporings",
 		RewardEXP = "1750000",
 		RewardJEXP = "1137500",
 		RewardItemList = {
@@ -41385,9 +41385,9 @@ QuestInfoList = {
 	[12476] = {
 		Title = "Cecilia's Revenge I",
 		Description = {
-			"^0000ff \" Watch out for the snake, because it's a lot wilder than it looks. As soon as you turn your attention, it will attack. \"^000000 Cecilia is briefly exhausted and is bitten by this monster in her seat. She is unable to move because of the paralysis poison that has spread to her body in an instant. ^0000ff \" Labyrinth If you want to take a break at, I won't dry it. But if I'm alive, I want to avoid that ... \"^000000"
+			"^0000ff \" Be careful with that snake, it's much more intense than it looks. When you look away, it will attack you. \"^000000 Cecilia was bitten by this monster when she sat down to rest. She suddenly became unable to move because of the paralyzing venom that had spread through her body. ^0000ff \" If I want to take a rest in the labyrinth, I should be careful... \"^000000"
 		},
-		Summary = "kill the sidewinder in chaos",
+		Summary = "Eliminate Chaotic Sidewinders",
 		RewardEXP = "1750000",
 		RewardJEXP = "1137500",
 		RewardItemList = {
@@ -41397,9 +41397,9 @@ QuestInfoList = {
 	[12477] = {
 		Title = "Cecilia's Revenge II",
 		Description = {
-			"She was driven into a situation where she couldn't move with a paralysis poison, and she was wearing a piercing statue by this pointy monster. ^0000ff \" Do you know how you can't use your hands or feet when the skewer's wounds stop? If I had just been paralyzed, I could have lived because it's all that damn skewer monster! \"^000000It's worth understanding her anger."
+			"While she was immobilized by the paralyzing venom, she was impaled by this pointed monster. ^0000ff \" Do you know how it feels when when you are skewered but can't do anything about it? If it was just the paralysis, I could have lived. It's because of the stem worm, the speared monster!! \"^000000I understand her anger."
 		},
-		Summary = "Treat the Chaos Stemworm",
+		Summary = "Eliminate Chaotic Stem Worm",
 		RewardEXP = "1750000",
 		RewardJEXP = "1137500",
 		RewardItemList = {
@@ -41407,11 +41407,11 @@ QuestInfoList = {
 		}
 	},
 	[12478] = {
-		Title = "Ideology purification",
+		Title = "Purification",
 		Description = {
-			"It is a request to eradicate one of the four priest's thoughts that are Loaming the labyrinth. This thought was created by the condensation of resentment and hatred in the process of the purification of the soul, regardless of the will of the soul. ^Ff0000This mission can only be performed once a week.^000000 ^ff00ccPurification targets may change weekly.^000000"
+			"This is a request to eradicate one of the four priests' worries from the labyrinth. It will help ease the resentment and hatred from their souls. ^Ff0000This task can be performed only once a week.^000000 ^ff00ccPurification targets may change weekly.^000000"
 		},
-		Summary = "Erad Andreas",
+		Summary = "Fighting Andrea",
 		RewardEXP = "2500000",
 		RewardJEXP = "1625000",
 		RewardItemList = {
@@ -41419,11 +41419,11 @@ QuestInfoList = {
 		}
 	},
 	[12479] = {
-		Title = "Ideology purification",
+		Title = "Purification",
 		Description = {
-			"It is a request to eradicate one of the four priest's thoughts that are Loaming the labyrinth. This thought was created by the condensation of resentment and hatred in the process of the purification of the soul, regardless of the will of the soul. ^Ff0000This mission can only be performed once a week.^000000 ^ff00ccPurification targets may change weekly.^000000"
+			"This is a request to eradicate one of the four priests' worries from the labyrinth. It will help ease the resentment and hatred from their souls. ^Ff0000This task can be performed only once a week.^000000 ^ff00ccPurification targets may change weekly.^000000"
 		},
-		Summary = "Extermination of Anes",
+		Summary = "Fighting Anes",
 		RewardEXP = "2500000",
 		RewardJEXP = "1625000",
 		RewardItemList = {
@@ -41431,9 +41431,9 @@ QuestInfoList = {
 		}
 	},
 	[12480] = {
-		Title = "Ideology purification",
+		Title = "Purification",
 		Description = {
-			"It is a request to eradicate one of the four priest's thoughts that are Loaming the labyrinth. This thought was created by the condensation of resentment and hatred in the process of the purification of the soul, regardless of the will of the soul. ^Ff0000This mission can only be performed once a week.^000000 ^ff00ccPurification targets may change weekly.^000000 "
+			"This is a request to eradicate one of the four priests' worries from the labyrinth. It will help ease the resentment and hatred from their souls. ^Ff0000This task can be performed only once a week.^000000 ^ff00ccPurification targets may change weekly.^000000"
 		},
 		Summary = "Fighting Silvano",
 		RewardEXP = "2500000",
@@ -41443,11 +41443,11 @@ QuestInfoList = {
 		}
 	},
 	[12481] = {
-		Title = "Ideology purification",
+		Title = "Purification",
 		Description = {
-			"It is a request to eradicate one of the four priest's thoughts that are Loaming the labyrinth. This thought was created by the condensation of resentment and hatred in the process of the purification of the soul, regardless of the will of the soul. ^Ff0000This mission can only be performed once a week.^000000 ^ff00ccPurification targets may change weekly.^000000"
+			"This is a request to eradicate one of the four priests' worries from the labyrinth. It will help ease the resentment and hatred from their souls. ^Ff0000This task can be performed only once a week.^000000 ^ff00ccPurification targets may change weekly.^000000"
 		},
-		Summary = "Eradication of Cecilia",
+		Summary = "Fighting Cecilia",
 		RewardEXP = "2500000",
 		RewardJEXP = "1625000",
 		RewardItemList = {
@@ -41511,19 +41511,19 @@ QuestInfoList = {
 		Summary = "commissions"
 	},
 	[12490] = {
-		Title = "Receive today's mission",
+		Title = "Daily Mission Cooldown",
 		Description = {
 			"Talk to <NAVI>Priests Guild members<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> inside the labyrinth. Daily missions available as a member of the Frontera Priests Guild All of these missions can be received again after 4:00 AM every day at 4:00 AM, and cannot be duplicated."
 		},
-		Summary = "Reset at 04:00",
+		Summary = "Reset at 4:00 a.m.",
 		CoolTimeQuest = 1
 	},
 	[12491] = {
-		Title = "Receive this week's mission",
+		Title = "Weekly Mission Cooldown",
 		Description = {
 			"Talk to <NAVI>Priests Guild members inside the labyrinth<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI>. Weekly missions that you can receive as a member of the Frontera Priests Guild All of these missions can be redeemed for ^ ff0000 every Saturday after 4:00 AM on^000000, and cannot be duplicated."
 		},
-		Summary = "Reset Saturday at 4 o'clock",
+		Summary = "Come back after 00:00 on Saturday",
 		CoolTimeQuest = 1
 	},
 	[12492] = {
